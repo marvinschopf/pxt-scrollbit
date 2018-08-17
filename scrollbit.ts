@@ -13,8 +13,8 @@ namespace scrollbit {
     const REG_BANK: number = 0xfd
     const BANK_CONFIG: number = 0x0b
 
-    const COLS: number = 17
-    const ROWS: number = 7
+    const COLS: number = 16
+    const ROWS: number = 8
 
     const ARROWOFFSET: number = 40
 
